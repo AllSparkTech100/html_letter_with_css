@@ -1,0 +1,25 @@
+.div-1{background-color: blue;
+}
+.div-2 {
+    background-color: greenyellow;
+
+}
+.span-1 {
+    background-color: red;
+    width: 100px;
+}
+.span-2 { background-color: royalblue;
+}
+
+ul{
+    background-color: yellow;
+    list-style: none;
+    padding: 5px;
+    text-align: right;
+    margin: 0;
+}
+img{
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+}

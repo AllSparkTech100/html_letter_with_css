@@ -1,0 +1,47 @@
+.container {
+    margin: 5%;
+    font-size: 30px;
+}
+
+.address {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    margin-left: 60%;
+    line-height: 13px;
+
+}
+
+.recipient {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 4px;
+}
+
+.salute{
+    margin-right: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin-left: 20px;
+}
+
+.title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.body{
+
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.closing{
+    margin-left: 950px;
+    line-height: 13px;
+    text-align: center;
+}
+hr{border:1px solid;}
