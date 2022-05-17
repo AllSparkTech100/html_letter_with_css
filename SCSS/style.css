@@ -1,0 +1,42 @@
+.container{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: white;
+    margin: 40px;
+}
+
+.address {
+    margin-left: 900px;
+    color: blue;
+    line-height: 12px;
+}
+
+.recipient{
+    line-height: 10px;
+    color: blue;
+}
+
+.salute{
+    font-style: italic;
+    margin-left: 43px;
+}
+
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    /* text-decoration: underline; */
+    font-weight: bold ;
+}
+
+.body{
+    margin-left: 30px;
+    margin-top: 23px;
+    line-height: 29px;
+}
+.closing{
+    margin-left: 900px;
+    line-height: 3px;
+    text-align: center;
+}
+hr{
+    border: 0.5px solid;
+}
