@@ -1,0 +1,51 @@
+.body-0 {
+    background-color: blanchedalmond;
+}
+
+
+
+.container{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: white;
+    margin: 40px;
+}
+
+.address {
+    margin-left: 900px;
+    color: blue;
+    line-height: 12px;
+}
+
+.recipient{
+    line-height: 4px;
+    color: blue;
+    margin-left: 17px;
+}
+
+.salute{
+    font-style: italic;
+    margin-left: 43px;
+    color: green;
+    margin-top: 33px;
+}
+
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold ;
+}
+
+.body{
+    margin-left: 80px;
+    margin-top: 23px;
+    line-height: 19px;
+    margin-right: 80px;
+    }
+.closing{
+    margin-left: 900px;
+    line-height: 3px;
+    text-align: center;
+}
+hr{
+    border: 0.5px solid;
+}
